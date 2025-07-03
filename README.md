@@ -1,2 +1,1 @@
-# Deber2_Dataminig
-Deber2
+Exploración de datasets para identificar patrones iniciales
